@@ -48,7 +48,7 @@ A personal objective of this project was to strengthen my ability to write more 
   * Sector Performance
   * Sales Cycle Duration
   
-#### [Report Creation](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/4.%20Report%20Creation) 
+#### [Report Creation](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/4.%20Report%20Creation) 
 
 * **Insights Presentation:** Use of Power BI to build a comprehensive report.
  
