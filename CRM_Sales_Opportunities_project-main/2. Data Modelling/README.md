@@ -37,7 +37,7 @@ I designed and implemented the database in MySQL, where I created each table (fa
 
 * Establishing relationships: I set up foreign key constraints to enforce referential integrity between the fact and dimension tables.
 
-The SQL script I used for this process is available here: [**db_creation_crm_sales.sql**](https://github.com/natalyamn/CRM_Sales_Opportunities_project/blob/main/2.%20Data%20Modelling/db_creation_crm_sales.sql)
+The SQL script I used for this process is available here: [**db_creation_crm_sales.sql**](https://github.com/Aichatouibra/CRM-sales-ops-analysis/blob/main/CRM_Sales_Opportunities_project-main/2.%20Data%20Modelling/db_creation_crm_sales.sql)
 
 ## Data Loading 
 
@@ -47,10 +47,10 @@ Once the tables were created, I proceeded to load the data into the database.
 
 * Data Integrity: For columns with empty string records (identified during the Data Preparation phase), I converted those to NULL values to accurately represent missing data.
 
-The SQL script for data loading can also be found here: [**db_creation_crm_sales.sql**](https://github.com/natalyamn/CRM_Sales_Opportunities_project/blob/main/2.%20Data%20Modelling/db_creation_crm_sales.sql)
+The SQL script for data loading can also be found here: [**db_creation_crm_sales.sql**](https://github.com/Aichatouibra/CRM-sales-ops-analysis/blob/main/CRM_Sales_Opportunities_project-main/2.%20Data%20Modelling/db_creation_crm_sales.sql)
 
 ## Entity-Relationship Diagram
 
 The following Entity-Relationship Diagram (ERD) visually represents the star schema structure, providing a clear overview of the database architecture and the relationships between entities.
 
-![db_crm_sales_diagram](https://github.com/user-attachments/assets/6e8e2d0b-350a-4952-a035-839b967d9247)
+![db_crm_sales_diagram](https://github.com/Aichatouibra/CRM-sales-ops-analysis/blob/main/CRM_Sales_Opportunities_project-main/2.%20Data%20Modelling/db_crm_sales_diagram.png)
