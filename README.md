@@ -54,7 +54,6 @@ A personal objective of this project was to strengthen my ability to write more 
  
 **Link to the Interactive Power BI Report:** [**Report**](https://app.powerbi.com/view?r=eyJrIjoiNGJlYTc2MTYtYzJiNy00ZmY2LWIyMzktN2Y0N2NiZGUwY2IyIiwidCI6IjAxMjJmNmU1LTFkMDAtNDU4Zi1hMjNlLWI4YTk4YmJhMDczZCIsImMiOjl9) 
 
-*Disclaimer: The units displayed in this report may vary depending on the regional settings of your browser. This report was designed with the US region in mind. Please adjust your regional settings if necessary to match the units used in this report.*
 
 ![image](https://github.com/user-attachments/assets/41b9bc3e-a4f8-44c6-8813-aefe4dcedb40)
 
