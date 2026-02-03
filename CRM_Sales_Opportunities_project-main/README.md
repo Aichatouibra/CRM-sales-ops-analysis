@@ -22,13 +22,13 @@ A personal objective of this project was to strengthen my ability to write more 
 
 ## Project Phases
 
-#### [Data Preparation](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/1.%20Data%20Preparation)
+#### [Data Preparation](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/1.%20Data%20Preparation)
 
 * **Data Examination:** Review of raw data files, including data structure, contents, and any initial observations.
 
 * **Data Transformation:** Processing the data to ensure it's ready for efficient analysis.
 
-#### [Data Modelling](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/2.%20Data%20Modelling)
+#### [Data Modelling](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/2.%20Data%20Modelling)
 
 * **Schema Structure:** Defining relationships and structure of the data.
   
@@ -36,7 +36,7 @@ A personal objective of this project was to strengthen my ability to write more 
 
 * **Data Loading:** Loading the prepared data into the database.
   
-#### [Data Analysis](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/3.%20Data%20Analysis)
+#### [Data Analysis](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/3.%20Data%20Analysis)
 
 * **SQL Querying:** Use of SQL queries to explore and address the project's core objectives.
 
@@ -48,7 +48,7 @@ A personal objective of this project was to strengthen my ability to write more 
   * Sector Performance
   * Sales Cycle Duration
   
-#### [Report Creation](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/4.%20Report%20Creation) 
+#### [Report Creation](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/4.%20Report%20Creation) 
 
 * **Insights Presentation:** Use of Power BI to build a comprehensive report.
  
