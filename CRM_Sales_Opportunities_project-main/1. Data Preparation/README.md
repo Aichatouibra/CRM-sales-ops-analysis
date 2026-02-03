@@ -2,7 +2,7 @@
 
 ## Data Examination
 
-In the initial phase of the project, I examined the [**original data files**](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/1.%20Data%20Preparation/original_files), which were provided in CSV format. Below is a summary of the fields contained in each CSV file: 
+In the initial phase of the project, I examined the [**original data files**](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/1.%20Data%20Preparation/original_files), which were provided in CSV format. Below is a summary of the fields contained in each CSV file: 
 
 * `accounts.csv`: Contains information about the companies (accounts) involved in sales opportunities.
   * *account*: Company name
@@ -64,8 +64,8 @@ Additionally, I identified columns that contained empty string values:
 
 I automated the data transformation process using a Python script, which is available in the following Jupyter Notebook:
 
-* [**csv files preparation**](https://github.com/natalyamn/CRM_Sales_Opportunities_project/blob/main/1.%20Data%20Preparation/csv_files_preparation.ipynb)
+* [**csv files preparation**](https://github.com/Aichatouibra/CRM-sales-ops-analysis/blob/main/CRM_Sales_Opportunities_project-main/1.%20Data%20Preparation/csv_files_preparation.ipynb)
 
 The transformed data files resulting from this process can be found in the following directory:
 
-* [**modified data files**](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/1.%20Data%20Preparation/modified_files)
+* [**modified data files**](https://github.com/Aichatouibra/CRM-sales-ops-analysis/tree/main/CRM_Sales_Opportunities_project-main/1.%20Data%20Preparation/modified_files)
